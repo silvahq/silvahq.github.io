@@ -1,2 +1,2 @@
-# silvapw.github.io
+# silvahq.github.io
 Silva HQ
