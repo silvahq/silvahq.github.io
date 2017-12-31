@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/sh0bin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://www.silvahq.com
+  * I am sh0bin (https://keybase.io/sh0bin) on keybase.
+  * I have a public key ASDluMyWEZUFryQeySzKcHH1QChTYzX1iDHKCclM_YIYqgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e5b8cc96119505af241ec92cca7071f54028536335f58831ca09c94cfd8218aa0a",
+      "host": "keybase.io",
+      "kid": "0120e5b8cc96119505af241ec92cca7071f54028536335f58831ca09c94cfd8218aa0a",
+      "uid": "11b6021e9dde12e6bc480fd1fa615119",
+      "username": "sh0bin"
+    },
+    "merkle_root": {
+      "ctime": 1514747969,
+      "hash": "bddd60ee61f6c135e55dbcb854b0f4381f80e00e8158d3d08a5355f82b226733638d36ba680f9d8bbe90c596a1e4cb51868bb22e504eca83dc3905f456e63e53",
+      "hash_meta": "eb02200191b4fa5036c4a74ff738bf5a5ca10b7ef736060d139ab46bffc29d01",
+      "seqno": 1873211
+    },
+    "service": {
+      "hostname": "www.silvahq.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514748007,
+  "expire_in": 504576000,
+  "prev": "a2cc1a964f58eab8608f623b393367c34c892d552560cc066345c3e6dd9a385d",
+  "seqno": 9,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5bjMlhGVBa8kHsksynBx9UAoU2M19YgxygnJTP2CGKoKp3BheWxvYWTFA0R7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZTViOGNjOTYxMTk1MDVhZjI0MWVjOTJjY2E3MDcxZjU0MDI4NTM2MzM1ZjU4ODMxY2EwOWM5NGNmZDgyMThhYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTViOGNjOTYxMTk1MDVhZjI0MWVjOTJjY2E3MDcxZjU0MDI4NTM2MzM1ZjU4ODMxY2EwOWM5NGNmZDgyMThhYTBhIiwidWlkIjoiMTFiNjAyMWU5ZGRlMTJlNmJjNDgwZmQxZmE2MTUxMTkiLCJ1c2VybmFtZSI6InNoMGJpbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUxNDc0Nzk2OSwiaGFzaCI6ImJkZGQ2MGVlNjFmNmMxMzVlNTVkYmNiODU0YjBmNDM4MWY4MGUwMGU4MTU4ZDNkMDhhNTM1NWY4MmIyMjY3MzM2MzhkMzZiYTY4MGY5ZDhiYmU5MGM1OTZhMWU0Y2I1MTg2OGJiMjJlNTA0ZWNhODNkYzM5MDVmNDU2ZTYzZTUzIiwiaGFzaF9tZXRhIjoiZWIwMjIwMDE5MWI0ZmE1MDM2YzRhNzRmZjczOGJmNWE1Y2ExMGI3ZWY3MzYwNjBkMTM5YWI0NmJmZmMyOWQwMSIsInNlcW5vIjoxODczMjExfSwic2VydmljZSI6eyJob3N0bmFtZSI6Ind3dy5zaWx2YWhxLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzgifSwiY3RpbWUiOjE1MTQ3NDgwMDcsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiYTJjYzFhOTY0ZjU4ZWFiODYwOGY2MjNiMzkzMzY3YzM0Yzg5MmQ1NTI1NjBjYzA2NjM0NWMzZTZkZDlhMzg1ZCIsInNlcW5vIjo5LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQJ4Y/P6aHwTI4sCggC4LeRmKlI3dafbY+ajuzEzEwb2eUPI+9bXK0LBujH6qihinyOJC+gRtkAJSlKKuOEksSguoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCAyNzm5DAD3kNs1+05LI2SSekKm0UU9kqNuhB4hTp+7O6N0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sh0bin
+
+==================================================================
